@@ -39,6 +39,7 @@ Blinkit-Clone/
 │
 │── index.html
 │── style.css
+│── media.css
 └── README.md
 ```
 
