@@ -6,8 +6,6 @@ A responsive **Blinkit Landing Page Clone** built using **HTML5** and **CSS3**. 
 
 🔗 https://jayeshbansal.github.io/Blinkit-Clone/
 
-> **Note:** Replace the above link with your actual GitHub Pages URL if it's different.
-
 ## ✨ Features
 
 - Responsive design for Desktop, Tablet, and Mobile
@@ -33,9 +31,11 @@ A responsive **Blinkit Landing Page Clone** built using **HTML5** and **CSS3**. 
 
 ```text
 Blinkit-Clone/
-│── assets/
-│   ├── images/
-│   └── icons/
+│── img/
+│   ├── img1/
+│   ├── img2/
+│   ├── img3/
+│   └── img4/
 │
 │── index.html
 │── style.css
@@ -92,4 +92,4 @@ This project is created for **educational purposes only** and is **not affiliate
 - LinkedIn: https://www.linkedin.com/in/jayeshbansal20/
 
 ---
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
+
